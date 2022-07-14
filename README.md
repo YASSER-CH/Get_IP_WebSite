@@ -3,7 +3,7 @@
 
 <img src="/Get_IP_WibeSite/img_get_ip.png">
 
-# Run Script
+# RUN SCRIPT:
 
 cd Get_IP_WebSite
 
